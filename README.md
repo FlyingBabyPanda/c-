@@ -1,2 +1,1 @@
-# c-
-yon_buldurma
+Bir kişinin yüzü başlangıçta batıya dönüktür. Bu kişi saatte 3 km yol gitmektedir ve her 5 km de bir sağa dönmektedir. Bu c++ kodu kullanıcıdan kişinin toplam kaç saat yürüdüğü bilgisini alarak, kişinin hangi yönde (batı,kuzey,doğu,güney) ne kadar yürüdüğü, toplam kaç km yürüdüğü ve en sonda hangi yöne baktığını çıktı olarak vermektedir.
